@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../extensions/amp-shadow-dom-polyfill/0.1/amp-shadow-dom-polyfill.js"],
+  "sourcesContent": ["/**\n * @fileoverview This is just a placeholder for the polyfill that will be\n * injected here from the `node_modules/@webcomponents/webcomponentsjs/bundles/webcomponents-sd.install.js`\n * script.\n */\n\n(function () {})();\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAMA,EAAC,YAAY;;",
+  "names": []
+}
